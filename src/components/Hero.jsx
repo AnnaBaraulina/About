@@ -82,10 +82,10 @@ const Hero = () => {
         <div>
           <img
             className="absolute bottom-0 ml-[50vw] 
-            lg:ml-[65vw] md:ml-[50vw] xmd:ml-[60vw] 2xl:ml-[83vw]
-            xs:h-[60vh] sm:h-[70vh] md:h-[70vh] xl:h-[70vh]"
+            lg:ml-[65vw] xs:ml-[55vw] md:ml-[50vw] xmd:ml-[60vw] 2xl:ml-[83vw]
+            xs:h-[50vh] sm:h-[70vh] md:h-[70vh] xl:h-[70vh] xxs:h-[0vh]"
             src={shaq}
-            alt="shaquille"
+            alt="anne"
           />
         </div>
       </section>
