@@ -124,7 +124,9 @@ const Projects = () => {
         <motion.p
           variants={fadeIn('', '', 0.1, 1)}
           className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-          Some of my projects were completed as part of a Web Development course. I handled these projects independently from start to finish; they underwent code reviews, and upon approval, were published on GitHub Pages or deployed to a domain using cloud storage services. The other part consists of my personal projects, which I developed while self-learning new libraries and frameworks.
+          I began by mastering frontend skills, then expanded into testing and backend development. My course projects, fully managed and developed by me, were published on GitHub Pages or deployed via cloud services after rigorous code reviews.
+
+Beyond coursework, I’ve created personal projects to explore new libraries and frameworks. My open-source contributions solidify my expertise, where I also mentor aspiring developers and share insights through articles.
         </motion.p>
       </div>
 

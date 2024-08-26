@@ -37,7 +37,9 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        I have a strong educational background in philosophy, where I was passionate about studying logic. Later, I worked as an IT project manager, and it was at that moment that I decided to learn computer languages. However, life is more fanciful, so I accumulated diverse professional experience: I worked as a teacher, as a senior manager in education, as an lecture coordinator, and now I am beginning my journey as a web developer!
+        What started as a curiosity about IT quickly turned into a passion for web development. After exploring online courses and enjoying algorithm challenges, I decided to take my skills further by enrolling in a comprehensive full-stack development course, which I completed in April 2024. During this time, I worked on various personal and academic projects and actively contributed to an open-source project, sharpening my skills and understanding of the industry.
+
+
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

@@ -114,7 +114,7 @@ const experiences = [
     company_name: 'Yandex Practicum Apprenticeship',
     icon: coverhunt,
     iconBg: '#333333',
-    date: 'Sep 2021 - Apr 2024',
+    date: 'Sep 2022 - Apr 2024',
   },
   {
     title: 'Contributor (Volunteer)',
