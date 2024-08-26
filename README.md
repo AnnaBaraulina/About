@@ -1,3 +1,3 @@
 # Hello, it's my portfolio website 
-## <https://annabaraulina.github.io/>
+## <https://annabaraulina.github.io/about/>
 
